@@ -27,7 +27,7 @@ pip install -r requirements.txt
 5. The result of the classification will be displayed on the web page.
 
 ## Demo
-A live demo of the application can be found here.
+A live demo of the application can be found here : https://python-flask-ml-web-app.herokuapp.com/.
 
 ## Built With
 Python 3.7
