@@ -8,7 +8,6 @@ This is a web application built using Python Flask framework that allows users t
 - License
 ## Installation
 1. Clone the repository:
-
 git clone https://github.com/Emmanuel50-dev/Python-Flask-Machine-Learning-Web-App.git
 
 2. Install the required packages:
@@ -21,7 +20,8 @@ pip install -r requirements.txt
 
 ## Usage
 1. Start the Flask application:
-2. Open a web browser and go to http://localhost:5000.
+2. Open a web browser and go to  http://localhost:5000.
+
 3. Click on the "Choose File" button and select an image file.
 4. Click on the "Upload" button to upload the image and classify it using the machine learning model.
 5. The result of the classification will be displayed on the web page.
